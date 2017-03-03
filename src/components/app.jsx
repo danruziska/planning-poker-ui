@@ -12,7 +12,7 @@ class App extends React.Component {
     return (
       <MuiThemeProvider>
         <div>           
-            App Start.
+            <p>App Start!</p>
         </div>   
       </MuiThemeProvider>  
     );
